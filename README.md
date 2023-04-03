@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-Sou o Luiz Gonzaga. sou um programador Front End.  Atualmente estou aprendendo e criando projeto com:
+Sou o Luiz Gonzaga. 
+<br> 
+
+Olá! Eu sou um programador Front End com uma paixão por aprender e aprimorar minhas habilidades em Javascript. Neste momento, estou trabalhando em um projeto que me empolga muito! Estou empenhado em criar algo que possa realmente impactar a vida das pessoas e tornar a experiência online mais agradável e intuitiva. Estou sempre buscando por desafios e novas oportunidades para aprender e crescer na minha carreira. Com um forte compromisso em fornecer soluções de alta qualidade, estou ansioso para aplicar minhas habilidades em projetos futuros e contribuir para o sucesso de sua equipe. Se você está procurando um programador Front End entusiasmado e altamente motivado, eu seria uma ótima escolha! Atualmente estou e criando projeto com:
+ 
 <br>
 <br>
 
