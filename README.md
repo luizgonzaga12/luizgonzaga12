@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Eu sou o Luiz Gonzaga, sou um programador Front End.  Atualmente estou aprendendo e criando projeto com:
+Sou o Luiz Gonzaga. sou um programador Front End.  Atualmente estou aprendendo e criando projeto com:
 <br>
 <br>
 
